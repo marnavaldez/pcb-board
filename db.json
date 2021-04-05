@@ -1,17 +1,19 @@
-[
-    {
-        "pcb_id": "y0eyyb9",
-        "name": "Board",
-        "version": "1.24"
-    },
-    {
-        "pcb_id": "k34ed1",
-        "name": "Macro Duino",
-        "version": "1"
-    },
-    {
-        "pcb_id": "q527rf5",
-        "name": "New PCB",
-        "version": "2"
-    }
-]
+{
+    "pcbs": [
+        {
+            "pcb_id": "y0eyyb9",
+            "name": "Board",
+            "version": "1.24"
+        },
+        {
+            "pcb_id": "k34ed1",
+            "name": "Macro Duino",
+            "version": "1"
+        },
+        {
+            "pcb_id": "q527rf5",
+            "name": "New PCB",
+            "version": "2"
+        }
+    ]
+}
